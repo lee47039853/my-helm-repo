@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mynginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-08T21:13:24.193054091+09:00"
+    description: A Helm chart for running nginx web server
+    digest: 9377af3b5e29e1a286e8c149586b47e536cf7829d88774abe16c35fe50884cdc
+    name: mynginx
+    type: application
+    urls:
+    - mynginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-08T21:13:24.192504756+09:00"
